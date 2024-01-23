@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "Total-Calculator-App-Icon-1024-p-500x500.jpg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
